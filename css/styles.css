@@ -14,13 +14,13 @@ body {
 }
 
 .navbar-brand {
-    color: #090909;2
+    color: #09090b;
     font-size: 1.4rem;
     transition: all 0.3s ease;
 }
 
 .navbar-brand:hover {
-    color: #090909;
+    color: #3451b2;
     transform: scale(1.05);
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 .menu-item:hover {
-    color: #090909;
+    color: #4a6bdb;
 }
 
 .menu-item::after {
