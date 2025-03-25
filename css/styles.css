@@ -1,7 +1,7 @@
 /* Estilos Gerais */
 body {
     font-family: 'Poppins', sans-serif;
-    color: #c6c6c6;
+    color: #333;
     line-height: 1.6;
     padding-top: 76px;
     background-color: #3c3f49;
@@ -14,7 +14,7 @@ body {
 }
 
 .navbar-brand {
-    color: #09090b;
+    color: #090909;2
     font-size: 1.4rem;
     transition: all 0.3s ease;
 }
