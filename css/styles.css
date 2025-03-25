@@ -7,7 +7,7 @@ body {
     background-color: #15171c;
 }
 
-/* Navegação */
+/* Navegação */srg
 .navbar {
     background-color: #66686d;
     padding: 15px 0;
@@ -20,7 +20,7 @@ body {
 }
 
 .navbar-brand:hover {
-    color: #3451b2;
+    color: #0d0f13;
     transform: scale(1.05);
 }
 
