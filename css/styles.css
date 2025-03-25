@@ -142,7 +142,7 @@ body {
     font-size: 1.3rem;
     font-weight: 600;
     margin-bottom: 15px;
-    color: #101214;
+    color: #2d3748;
 }
 
 .project-btn {
@@ -159,7 +159,7 @@ body {
 
 /* Footer */
 footer {
-    background-color: #0b0c0e;
+    background-color: #2d3748;
     color: #ffffff;
     padding: 50px 0 30px;
     margin-top: 60px;
